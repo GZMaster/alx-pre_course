@@ -1,2 +1,2 @@
 # alx-pre_course
- This is My Repo for ALx Projects
+ This is for the Git folder
